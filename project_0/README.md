@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -27,11 +27,12 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
+:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Краткая информация о данных
 Исходные данные не требуются. Скрипт самостоятельное генерирует число и ищет его
   
-:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -39,14 +40,14 @@
 2. Закрепить полученные знания посредством выполнения промежутчоных заданий
 3. Выполнить проект согласно установленным критериям
 
-:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 В ходе выполнения задания был написан код, который «угадывает» загаданное число в среднем за ***5*** попыток, при условии, что загаданное число лежит в интервале ***от 1 до 100 (включительно)***
 
 
-:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
@@ -54,7 +55,7 @@
 - [x] Получены навыки работы с ***IDE*** :metal: :metal: :metal:
 - [x] Освоено базовое применение ***GitHub*** :pencil: :pencil: :pencil:
 
-:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
