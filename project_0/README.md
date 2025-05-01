@@ -59,3 +59,6 @@
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+
+Ссылка на Google Colab с кодом
+[is right here](https://colab.research.google.com/drive/1p7ky9iC78ts7wOvXfM65CFoWJKM5I_lu?usp=sharing)
