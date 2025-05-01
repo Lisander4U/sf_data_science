@@ -45,6 +45,7 @@
 
 ### Результаты:  
 В ходе выполнения задания был написан код, который «угадывает» загаданное число в среднем за ***5*** попыток, при условии, что загаданное число лежит в интервале ***от 1 до 100 (включительно)***
+:exclamation: :exclamation: :exclamation:***Итоговый файл с кодом называется game_core_v3.py***:exclamation: :exclamation: :exclamation:
 
 
 :arrow_up:[к оглавлению](https://github.com/Lisander4U/sf_data_science/tree/main/project_0/README.md#Оглавление)
